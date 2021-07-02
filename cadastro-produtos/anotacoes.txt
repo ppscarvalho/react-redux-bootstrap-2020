@@ -1,0 +1,8 @@
+1. Instalar a extensão do dracual para definir um novo thema
+
+2. Instalar a bootswatch theme  => https://bootswatch.com/
+  2.1. Em Themes selecione o Thema de sua preferência
+    2.1.1. Para esse projeto o thema usado foi o Cerulean
+
+3. Instalando o react router dom para trabalhar com as rotas
+  3.1.  yarn add react-router-dom
